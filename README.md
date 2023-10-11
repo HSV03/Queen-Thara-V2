@@ -9,11 +9,11 @@
   </p>
 
 <p align="center">
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
+  <a href="https://github.com/HSV03/Queen-Thara-V2/fork">
     <img src="https://img.shields.io/github/forks/King-Chami/Queen-Thara?label=Fork&style=social">
     
     
-  <a href="https://github.com/King-Chami/Queen-Thara/stargazers"> 
+  <a href="https://github.com/HSV03/Queen-Thara-V2"> 
     <img src="https://img.shields.io/github/stars/King-Chami?style=social">
   </a>
 
@@ -23,8 +23,8 @@
 <p align="center">
 <a href="https://github.com/Queen-Thara"><img title="Owner" src="https://img.shields.io/badge/Owner-Maher Zubair-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
 
- <a href="https://github.com/Maher-Zubair/Queen-Thara/blob/main/LICENCE">
-<img src='https://img.shields.io/github/license/Maher-Zubair/Queen-Thara?color=%231e81b0&style=for-the-badge' width="143px">
+ <a href="https://github.com/HSV03/Queen-Thara-V2/blob/main/LICENCE">
+<img src='https://img.shields.io/github/license/King-Chami/Queen-Thara?color=%231e81b0&style=for-the-badge' width="143px">
 <p align="center"> 
 
 
