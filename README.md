@@ -1,5 +1,5 @@
 
-<h1 align="center"> sɪɢᴍᴀ ᴹᴰ </h1>
+<h1 align="center"> Queen-Thara </h1>
 </p>
 <p align="center">
     <img alt=Support height="350" src="https://telegra.ph/file/03e49e6e2057568db8926.jpg"> 
@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/github/forks/King-Chami/Queen-Thara?label=Fork&style=social">
     
     
-  <a href="https://github.com/Maher-Zubair/Queen-Thara/stargazers"> 
-    <img src="https://img.shields.io/github/stars/Maher-Zubair?style=social">
+  <a href="https://github.com/King-Chami/Queen-Thara/stargazers"> 
+    <img src="https://img.shields.io/github/stars/King-Chami?style=social">
   </a>
 
 </p>
