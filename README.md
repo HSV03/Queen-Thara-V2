@@ -1,46 +1,24 @@
-
-<h1 align="center"> Queen-Thara </h1>
-</p>
-<p align="center">
-    <img alt=Support height="350" src="https://telegra.ph/file/03e49e6e2057568db8926.jpg"> 
-    </p>
-    <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=F7F7F7&center=true&width=435&lines=Welcome+To+Queen-Thara;Multi-Device+Whatsapp+Bot;Developed+By+King+chami;Released+Date+1%2F10%2F2023." alt="Typing SVG" /></a>
-  </p>
-
-<p align="center">
-  <a href="https://github.com/HSV03/Queen-Thara-V2/fork">
-    <img src="https://img.shields.io/github/forks/King-Chami/Queen-Thara?label=Fork&style=social">
-    
-    
-  <a href="https://github.com/HSV03/Queen-Thara-V2"> 
-    <img src="https://img.shields.io/github/stars/King-Chami?style=social">
-  </a>
-
-</p>
+<div align="center"><h1>❖❖❖❖❖ 𝐐𝐔𝐄𝐄𝐍 *THARA*  ❖❖❖❖❖</h1><a href="https://github.com/HSV03/Queen-Thara-V2"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/e30459858952812db2b9b479cbc6eeb7603bb494/sewqueenimg/main.jpg" width="250" height="250"></a><h3>✬✬ Queen Thara Is World Best Whatsapp Bot Ever ✬✬</h3></div>
 
 
-<p align="center">
-<a href="https://github.com/Queen-Thara"><img title="Owner" src="https://img.shields.io/badge/Owner-Maher Zubair-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
+***
 
- <a href="https://github.com/HSV03/Queen-Thara-V2/blob/main/LICENCE">
-<img src='https://img.shields.io/github/license/King-Chami/Queen-Thara?color=%231e81b0&style=for-the-badge' width="143px">
-<p align="center"> 
+> termux code for qr✏
 
 
-## ***Bot Features***
----
-1. ***Game Menu.***
-2.  ***Multi-Themes Supported.***
-3.  ***Huge Logo Maker Menu.***
-4.  ***Photo Editor Menu.***
-5.  ***Ban Protection.***
-6.  ***Multi-Device Supported.***
-7.  ***350+ Commands.***
-##
+```
+$ pkg upgrade && pkg update
+$ pkg install nodejs && pkg install git
+```
 
+```
+$ git clone https://github.com/HSV03/Queen-Thara-V2.git
+$ cd qr
+$ npm i
+$ node thara.js
 
-
-
-
-
+```
+```
+$ cd qr
+$ node thara.js
+```
