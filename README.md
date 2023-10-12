@@ -1,4 +1,4 @@
-<div align="center"><h1>❖❖❖❖❖ 𝐐𝐔𝐄𝐄𝐍 *THARA*  ❖❖❖❖❖</h1><a href="https://github.com/HSV03/Queen-Thara-V2"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/e30459858952812db2b9b479cbc6eeb7603bb494/sewqueenimg/main.jpg" width="250" height="250"></a><h3>✬✬ Queen Thara Is World Best Whatsapp Bot Ever ✬✬</h3></div>
+<div align="center"><h1>❖❖❖❖❖ 𝐐𝐔𝐄𝐄𝐍 *THARA*  ❖❖❖❖❖</h1><a href="https://github.com/HSV03/Queen-Thara-V2"><img src="https://i.ibb.co/Bj6yqvh/anime-girl-1170x2532-10025.jpg" width="250" height="250"></a><h3>✬✬ Queen Thara Is World Best Whatsapp Bot Ever ✬✬</h3></div>
 
 
 ***
